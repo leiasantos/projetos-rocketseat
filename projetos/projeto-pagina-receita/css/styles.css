@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+:root{
+   --cor-um:#573824;
+   --cor-dois:#F0E8C2;
+   --cor-tres:#291B1A;
+   --cor-quatro:#573A37;
+  
+}
+*{
+font-family: "Alice", serif;
+}
+
+
+h1{
+    font-size: 40px;
+    line-height: 140%;
+    color: var(--cor-um);
+}
+
+h2{
+    font-size: 24px;
+    line-height: 150%;
+    color: var(--cor-um);
+}
+
+p{
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--cor-quatro);
+}
+
+ul li{
+    color: var(--cor-quatro);
+}
+
+body{
+    background-image: url(../img/bg-image.png);
+    background-size: cover;
+}
+
+#page{
+    background-color: var(--cor-dois); 
+    box-sizing: border-box;
+    width: 800px;
+    padding: 24px;
+    border-radius: 24px;
+    margin: 48px auto 28px ;
+
+}
+
+
+img{
+    border-radius: 16px;
+}
+
+footer{
+    color: var(--cor-quatro);
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+.fa-solid fa-heart{
+    background-color: var(--cor-tres);
+}
