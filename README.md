@@ -1,27 +1,31 @@
+{"id":"53987","variant":"standard","title":"README final com previews"}
 # 📚 Meus Projetos
 
-Lista organizada dos meus projetos desenvolvidos durante os estudos de HTML e CSS (Rocketseat).
+Lista organizada dos meus projetos desenvolvidos durante os estudos de HTML e CSS (Rocketseat).  
 
-<br>
+💻 **Tecnologias usadas:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ## 🗂 Tabela de Projetos
 
-| Nº  | Projeto                       | Link                                                                 |
-|-----|-------------------------------|----------------------------------------------------------------------|
-| 1   | Projeto Formulário            | [Acessar Projeto](https://rocketseat-exercio-01.vercel.app/)        |
-| 2   | Projeto Galáxias              | [Acessar Projeto](https://rocketseat-exercio-02.vercel.app/)        |
-| 3   | Projeto Página de Viagens     | [Acessar Projeto](https://rocketseat-exercio-03.vercel.app/)        |
-| 4   | Projeto Portal de Notícias    | [Acessar Projeto](https://rocketseat-exercio-04.vercel.app/)        |
-| 5   | Projeto Página Receita        | [Acessar Projeto](https://rocketseat-exercio-05.vercel.app/)        |
+| Nº  | Projeto                       | Link para Preview |
+|-----|-------------------------------|-----------------|
+| 1   | Projeto Formulário            | [Abrir Preview](previews/preview-formulario.html) |
+| 2   | Projeto Galáxias              | [Abrir Preview](previews/preview-galaxias.html) |
+| 3   | Projeto Página de Viagens     | [Abrir Preview](previews/preview-pagina-viagens.html) |
+| 4   | Projeto Portal de Notícias    | [Abrir Preview](previews/preview-portal-noticias.html) |
+| 5   | Projeto Página Receita        | [Abrir Preview](previews/preview-pagina-receita.html) |
 
 ---
 
-**💻 Tecnologias usadas:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚡ Como usar os previews
 
----
-
-✨ Todos os projetos foram desenvolvidos com foco em **HTML e CSS**, aplicando boas práticas de organização, responsividade e design visual. Sinta-se à vontade para explorar e conferir o funcionamento de cada projeto!
+1. Abra a pasta `previews/` no repositório.
+2. Clique em qualquer link "Abrir Preview".
+3. Um arquivo HTML será aberto com um **iframe** mostrando o projeto.
+4. Você pode interagir com o projeto sem sair do GitHub.
 
 ---
 
